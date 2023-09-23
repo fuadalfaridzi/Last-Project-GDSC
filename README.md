@@ -11,3 +11,5 @@ Work flow:
 5. Machine Learning Model Selection: Pilih model machine learning yang sesuai untuk tugas ini. Dalam kasus ini, gunakan model Regressor Random Forest. Random Forest adalah salah satu algoritma learning machine yang digunakan untuk tugas-tugas seperti klasifikasi dan regresi. Ini adalah jenis algoritma ensemble, yang berarti itu menggabungkan prediksi dari beberapa model learning machine untuk menghasilkan hasil yang lebih kuat dan stabil daripada menggunakan satu model tunggal.
 6. Model Training: Latih model Random Forest Regressor dengan menggunakan data pelatihan. Model ini akan belajar dari data pelatihan untuk melakukan prediksi harga emas.
 7. Model Evaluation: Evaluasi model menggunakan data pengujian. Hitung metrik evaluasi seperti R-squared.
+
+** Note: Jika ingin run semua code nya, harap download dulu file "gld_price_data.csv" yang sudah disediakan, lalu upload pada google colab **    
